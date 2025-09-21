@@ -1,0 +1,18 @@
+# Verilator build files
+obj_dir/
+*.o
+*.a
+*.mk
+*.d
+
+# VCD files (optional - you might want to include one example)
+# waveforms/*.vcd
+
+# Temporary files
+*~
+*.tmp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
